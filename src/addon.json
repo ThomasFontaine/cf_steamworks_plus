@@ -26,7 +26,6 @@
     "addon.json",
     "icon.svg",
     "editor.js",
-    "Steam_plus_x64.ext.dll",
-    "Steam_plus_x64.ext.so"
+    "Steam_plus_x64.ext.dll"
   ]
 }
