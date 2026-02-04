@@ -22,11 +22,6 @@ const PLUGIN_INFO = {
       "filename": "Steam_plus_x64.ext.dll",
       "type": "wrapper-extension",
       "platform": "windows-x64"
-    },
-    {
-      "filename": "Steam_plus_x64.ext.so",
-      "type": "wrapper-extension",
-      "platform": "linux-x64"
     }
   ],
   "type": "object"
